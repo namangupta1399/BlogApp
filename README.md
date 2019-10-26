@@ -20,7 +20,7 @@ Now you're all set. You can login, view posts and do much more.
 ## Built With
 - HTML, CSS, JavaScript, [jQuery](https://jquery.com/), [Bootstrap](https://getbootstrap.com/docs/4.3/getting-started/introduction/) - for frontend
 - PHP - for backend
-- MySQL - database used
+- MySQL - for database
 
 ## Acknowledgement
 Course Instructor - [Edwin Diaz](https://github.com/DiazEdwin) ([PHP for Beginners - Become a PHP Master - CMS Project](
