@@ -13,7 +13,7 @@ Everything you need to implement the project on your system is mentioned below:
 3. Launch XAMPP, then click start button infront of Apache and MySQL options.
 4. Launch a web browser and type localhost/phpmyadmin in the browser window. The database will open.
 5. Create the database according to the project requirements. (You can see the tables required from the code itself)
-6. After creating database, type localhost/cms in the browser window to launch the application.
+6. After creating database, type localhost/project-folder-name in the browser window to launch the application.
 
 Now you're all set. You can login, view posts and do much more.
 
