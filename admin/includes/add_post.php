@@ -29,6 +29,7 @@ if(isset($_POST['create_post'])) {
 }
 
 
+
 ?>
 
 <form action="" method="post" enctype="multipart/form-data">
