@@ -1,5 +1,6 @@
 # Blogging site
 This is a Blogging web application which can be used by anybody to add modify blogs. Users can login, comment on the blogs, read blogs on specific categories and much more. This project was made as a part of summer training. There are 2 types of user: Admin & Subscriber. The subscriber has limited access to the backend settings.
+[Click here to see](http://blogappcms.tech/)
 
 ## Getting Started
 Everything you need to implement the project on your system is mentioned below:
