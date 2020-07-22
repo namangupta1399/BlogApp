@@ -1,13 +1,9 @@
 # Blogging site
-This is a Blogging web application which can be used by anybody to add modify blogs. Users can login, comment on the blogs, read blogs on specific categories and much more. This project was made as a part of summer training. There are 2 types of user: Admin & Subscriber. The subscriber has limited access to the backend settings.
-
-[Link to the website](http://blogappcms.tech/)
-
-Admin login credentials for testing purpose:
-
-Username: admin
-
-Password: admin123
+This is a Blogging web application which can be used by anybody to add modify blogs. Users can login, comment on the blogs, read blogs on specific categories and much more. This project was made as a part of summer training. There are 2 types of user: Admin & Subscriber. The subscriber has limited access to the backend settings.<br />
+[Link to the website](http://blogappcms.tech/)<br />
+Admin login credentials for testing purpose:<br />
+Username: admin<br />
+Password: admin123<br />
 
 ## Getting Started
 Everything you need to implement the project on your system is mentioned below:
